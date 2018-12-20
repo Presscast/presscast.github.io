@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://presscast.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+# - about.md
  - contact.html
 
 # Google services
