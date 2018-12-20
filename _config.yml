@@ -1,0 +1,13 @@
+# Site settings
+title: Presscast Knowledge Base
+email: hello@presscast.io
+author: Louis Thibault
+description: "Knowledge base for Presscast.io users"
+baseurl: ""
+url: "http://presscast.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+remote_theme: johno/pixyll
