@@ -2,7 +2,7 @@
 layout:     post
 title:      Quickstart
 date:       2018-12-21 15:31:19
-summary:    This is a test.
+summary:    Up and running in 5 minutes.
 categories: Quick & dirty tutorial on using Presscast
 ---
 
